@@ -75,7 +75,7 @@
   },
   "location": {
     "city": "تهران , شهرک ولیعصر",
-    "address": "Shahrak Valiasr",
+    "address": "",
     "mapLink": "https://maps.app.goo.gl/twG4o3eUR7WpixCx5"
   },
   "theme": {
@@ -99,7 +99,7 @@
     "social": true,
     "themePicker": true,
     "shareButton": true,
-    "analytics": false,
+    "analytics": true,
     "maintenance": false
   },
   "tags": [
