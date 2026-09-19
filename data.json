@@ -60,28 +60,23 @@
   ],
   "phones": [
     {
-      "label": "موبایل",
-      "value": "+989053075028"
+      "label": "",
+      "value": "09106844195"
     }
   ],
-  "emails": [
-    {
-      "label": "کاری",
-      "value": "mhmdamyfrsa2005@gmail.com"
-    }
-  ],
+  "emails": [],
   "social": {
     "telegram": "Computer_MF_2005",
-    "whatsapp": "",
-    "instagram": "amin._.farsa",
-    "github": "mohamadfarsa",
+    "whatsapp": "09106844195",
+    "instagram": "smart_businesscard",
+    "github": "",
     "linkedin": "",
     "twitter": ""
   },
   "location": {
-    "city": "Tehran, Iran",
+    "city": "تهران , شهرک ولیعصر",
     "address": "Shahrak Valiasr",
-    "mapLink": ""
+    "mapLink": "https://maps.app.goo.gl/twG4o3eUR7WpixCx5"
   },
   "theme": {
     "accentPreset": "blue",
