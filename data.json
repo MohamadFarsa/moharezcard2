@@ -80,9 +80,9 @@
   },
   "theme": {
     "accentPreset": "blue",
-    "font": "Vazirmatn",
+    "font": "IRANSans",
     "layout": "modern",
-    "background": 0,
+    "background": 2,
     "cardColor": "#0d1117",
     "heroColor": "#0d1117"
   },
